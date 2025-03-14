@@ -9611,12 +9611,12 @@
       "editions": [
         {
           "name": "Releases",
-          "ig-version": "0.1.8",
-          "package": "dk.kip.rkkp.fhir.ig.core#0.1.8",
+          "ig-version": "0.2.1",
+          "package": "dk.kip.rkkp.fhir.ig.core#0.2.1",
           "fhir-version": [
             "4.0.1"
           ],
-          "url": "https://kip.rkkp.dk/fhir/0.1.8"
+          "url": "https://kip.rkkp.dk/fhir/0.2.1"
         }
       ]
     }
