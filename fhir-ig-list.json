@@ -9596,8 +9596,8 @@
       "name": "KIP Infrastructure",
       "category": "Core",
       "npm-name": "dk.kip.rkkp.fhir.ig.core",
-      "description": "The Danish Sundhedsvæsnets Kvalistetsinstitut defines a set of FHIR CodeSystems and ValueSets used for data collection.",
-      "authority": "Sundhedsvæsnets Kvalistetsinstitut with Trifork Digital Health A/S",
+      "description": "The Danish Sundhedsvæsenets Kvalitetsinstitut defines a set of FHIR CodeSystems and ValueSets used for data collection.",
+      "authority": "Sundhedsvæsenets Kvalitetsinstitut with Trifork Digital Health A/S",
       "country": "dk",
       "history": "https://kip.rkkp.dk/fhir/history.html",
       "language": [
@@ -9611,12 +9611,12 @@
       "editions": [
         {
           "name": "Releases",
-          "ig-version": "2.9.1",
-          "package": "dk.kip.rkkp.fhir.ig.core#2.9.1",
+          "ig-version": "2.9.3",
+          "package": "dk.kip.rkkp.fhir.ig.core#2.9.3",
           "fhir-version": [
             "4.0.1"
           ],
-          "url": "https://kip.rkkp.dk/fhir/2.9.1"
+          "url": "https://kip.rkkp.dk/fhir/2.9.3"
         }
       ]
     }
