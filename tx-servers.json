@@ -19,7 +19,7 @@
     {
       "code": "hl7-ca",
       "name": "HL7 Canada Terminology Services",
-      "authority": "Published by HL7 Canada/\u2008Canada Health Infoway",
+      "authority": "Published by HL7 Canada/Canada Health Infoway",
       "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-ca-tx-servers.json"
     },
     {
@@ -27,6 +27,66 @@
       "name": "HL7 France Terminology Services",
       "authority": "Published by HL7 France",
       "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-fr-tx-servers.json"
+    },
+    {
+      "code": "hl7-be",
+      "name": "Federal Public Service Health, Food Chain and Environment Terminology Services",
+      "authority": "Published by Federal Public Service Health, Food Chain and Environment Belgium / eHealth Platform Belgium",
+      "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-be-tx-servers.json"
+    },
+    {
+      "code": "hl7-eu",
+      "name": "HL7 Europe Terminology Services",
+      "authority": "Published by HL7 Europe",
+      "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-eu-tx-servers.json"
+    },
+    {
+      "code": "hl7-ch",
+      "name": "HL7 Switzerland Terminology Server",
+      "authority": "Published by HL7 Switzerland",
+      "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-ch-tx-servers.json"
+    },
+    {
+      "code": "tehik-ee",
+      "name": "TEHIK Terminology Server",
+      "authority": "Published by Estonian Health and Welfare Information Systems Centre (TEHIK)",
+      "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-ee-tx-servers.json"
+    },
+    {
+      "code": "hl7-cl",
+      "name": "HL7 Chilean Terminology Server",
+      "authority": "Published by HL7 Chile",
+      "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-cl-tx-servers.json"
+    },
+    {
+      "code": "hl7-nordics",
+      "name": "HL7 Nordics Terminology Server",
+      "authority": "Published by nordic HL7 affiliates",
+      "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-nordics-tx-servers.json"
+    },
+    {
+      "code": "hl7-de",
+      "name": "HL7 Germany Terminology Server",
+      "authority": "Published by HL7 Germany",
+      "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-de-tx-servers.json"
+    },
+    {
+      "code": "hl7-cz",
+      "name": "HL7 Czech Republic Terminology Services",
+      "authority": "Published by HL7 Czech Republic",
+      "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-cz-tx-servers.json"
+    },
+    {
+      "code": "hl7-nz",
+      "name": "HL7 New Zealand / New Zealand Health Terminology Service",
+      "authority": "Published by Health New Zealand / HL7 New Zealand",
+      "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/hl7-nz-tx-servers.json"
+    },
+    {
+      "code": "tw-caty",
+      "name": "Taiwan KYHealth CATY Terminology Serve",
+      "authority": "Published by Taiwan KYHealth",
+      "url": "https://raw.githubusercontent.com/FHIR/ig-registry/master/tw-caty-tx-servers.json"
     }
   ]
 }
